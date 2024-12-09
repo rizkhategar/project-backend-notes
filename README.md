@@ -217,5 +217,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### ✨ Contribute and Happy Coding! ✨
 
 Feel free to contribute or fork this project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-```
-
