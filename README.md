@@ -1,4 +1,4 @@
-Berikut adalah template **README.md** yang kreatif dan siap untuk digunakan di repository Anda:
+
 
 ```markdown
 # Project Backend Notes 🚀
